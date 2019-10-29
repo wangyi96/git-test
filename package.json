@@ -1,12 +1,13 @@
 {
   "name": "git-work",
   "version": "1.0.0",
-  "description": "",
+  "description": "GIT练习",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commitmsg": "validate-commit-msg"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
